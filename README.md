@@ -1,6 +1,6 @@
 # dotfiles
-nvim
-tmux
-alacritty
-bash
-fish
+- nvim
+- tmux
+- alacritty
+- bash
+- fish
